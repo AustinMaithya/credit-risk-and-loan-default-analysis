@@ -21,3 +21,4 @@ WHERE Education IS NULL;
 DELETE  FROM loan_risk_prediction_dataset
 WHERE Education IS NULL;
 
+
